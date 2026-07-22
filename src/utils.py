@@ -2,6 +2,7 @@
 
 Keep functions here pure and tested — notebooks should only orchestrate them.
 """
+
 from __future__ import annotations
 
 from pathlib import Path
