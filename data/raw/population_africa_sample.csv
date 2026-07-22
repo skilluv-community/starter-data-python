@@ -1,0 +1,18 @@
+country,region,year,population_millions,gdp_per_capita_usd
+Benin,West Africa,2023,13.7,1450
+Burkina Faso,West Africa,2023,23.3,900
+Cameroon,Central Africa,2023,28.1,1730
+Cote d'Ivoire,West Africa,2023,28.9,2620
+Ghana,West Africa,2023,34.1,2280
+Kenya,East Africa,2023,55.1,2270
+Mali,West Africa,2023,23.3,850
+Morocco,North Africa,2023,37.0,3820
+Nigeria,West Africa,2023,223.8,2160
+Rwanda,East Africa,2023,14.1,1000
+Senegal,West Africa,2023,17.8,1670
+South Africa,Southern Africa,2023,60.4,6770
+Tanzania,East Africa,2023,67.4,1220
+Togo,West Africa,2023,9.1,970
+Tunisia,North Africa,2023,12.5,3760
+Uganda,East Africa,2023,48.6,970
+Zambia,Southern Africa,2023,20.6,1350

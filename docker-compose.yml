@@ -1,0 +1,13 @@
+services:
+  jupyter:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "${JUPYTER_PORT:-8888}:8888"
+    volumes:
+      - ./notebooks:/workspace/notebooks
+      - ./src:/workspace/src
+      - ./data:/workspace/data
+      - ./tests:/workspace/tests
+    environment:
+      DATA_URL: ${DATA_URL:-}
